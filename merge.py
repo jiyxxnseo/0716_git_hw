@@ -1,6 +1,6 @@
 def greet():
     print("Hello from the yejihan branch")
-    print("Hello from the conflicting branch")
+    print("Hello from the main branch")
 
 def add(a, b):
     return a + b
